@@ -1,0 +1,12 @@
+
+Name: a 
+Marks: 12
+
+Name: b 
+Marks: 56
+
+Name: c
+Marks= 34
+
+Name: d
+Marks= 98
